@@ -27,5 +27,5 @@ This will generate bpwj-1.0-SNAPSHOT.jar in the target subdirectory.
 
 ##Usage
 
-There are lots of examples of how to use this code under [the examples directory](https://github.com/sujitpal/bpwj/src/main/java/sjm/examples). The simplest one to get started with in my opinion is the [Arithmetic Parser](https://github.com/sujitpal/bpwj/src/main/java/sjm/examples/arithmetic/).
+There are lots of examples of how to use this code under [the examples directory](https://github.com/sujitpal/bpwj/tree/master/src/main/java/sjm/examples). The simplest one to get started with in my opinion is the [Arithmetic Parser](https://github.com/sujitpal/bpwj/tree/master/src/main/java/sjm/examples/arithmetic).
 
